@@ -1,8 +1,5 @@
 # JPMC quant analysis projects
-
 This repository contains my solutions and analysis for the J.P. Morgan Chase & Co. Quantitative Research Virtual Experience Program.
-
-📌 Program Overview
 
 The core objectives include:
 Analyzing and visualizing financial data
